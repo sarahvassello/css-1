@@ -1,0 +1,226 @@
+.ad1, .ad2, .ad3, .bluebutotn6, .bluebutton1, .bluebutton2, .bluebutton3, .bluebutton4, .bluebutton5, .blueperson, .button1, .button2, .button3, .button4, .button5, .button6, .check, .facebook, .files, .graphs, .greenicongraph, .icon, .information, .leftarrow, .leftorangearrow, .lightbulb, .orangeicongraph, .rightarrow, .rightorangearrow, .searchbar, .settingsgray, .settingswhite, .smcheck, .twitter, .up-arrow, .youtube, .orangecheck{
+	background: url(sprites.png) no-repeat;
+}
+
+.ad1{
+	background-position: 0 0;
+	width: 281px;
+	height: 161px;
+}
+
+.ad2{
+	background-position: -309px 0;
+	width: 282px;
+	height: 174px;
+}
+
+.ad3{
+	background-position: -1px -171px ;
+	width: 281px;
+	height: 163px;
+}
+
+.bluebutotn6{
+	background-position: -289px -182px ;
+	width: 53px;
+	height: 66px;
+}
+
+.bluebutton1{
+	background-position: -425px -178px ;
+	width: 60px;
+	height: 73px;
+}
+
+.bluebutton2{
+	background-position: -356px -184px ;
+	width: 62px;
+	height: 64px;
+}
+
+.bluebutton3{
+	background-position: -499px -181px ;
+	width: 60px;
+	height: 65px;
+}
+
+.bluebutton4{
+	background-position: -564px -183px ;
+	width: 59px;
+	height: 69px;
+}
+
+.bluebutton5{
+	background-position: -290px -257px ;
+	width: 58px;
+	height: 70px;
+}
+
+.blueperson{
+	background-position: -7px -342px ;
+	width: 27px;
+	height: 25px;
+}
+
+.button1{
+	background-position: -360px -259px ;
+	width: 58px;
+	height: 58px;
+}
+
+.button2{
+	background-position: -427px -268px ;
+	width: 62px;
+	height: 42px;
+}
+
+.button3{
+	background-position: -497px -259px ;
+	width: 57px;
+	height: 48px;
+}
+
+.button4{
+	background-position: -571px -259px ;
+	width: 50px;
+	height: 50px;
+}
+
+.button5{
+	background-position: -299px -332px ;
+	width: 45px;
+	height: 50px;
+}
+
+.button6{
+	background-position: -359px -329px ;
+	width: 42px;
+	height: 50px;
+}
+
+.check{
+	background-position: -42px -343px ;
+	width: 34px;
+	height: 40px;
+}
+
+.facebook{
+	background-position: -90px -347px ;
+	width: 16px;
+	height: 16px;
+}
+
+.files{
+	background-position: -116px -342px ;
+	width: 31px;
+	height: 38px;
+}
+
+.graphs{
+	background-position: 0 -452px ;
+	width: 566px;
+	height: 267px;
+}
+
+.greenicongraph{
+	background-position: -642px 0;
+	width: 248px;
+	height: 212px;
+}
+
+.icon{
+	background-position: -157px -342px ;
+	width: 30px;
+	height: 30px;
+}
+
+.information{
+	background-position: -206px -345px ;
+	width: 20px;
+	height: 20px;
+}
+
+.leftarrow{
+	background-position: -13px -390px ;
+	width: 23px;
+	height: 51px;
+}
+
+.leftorangearrow{
+	background-position: -55px -399px ;
+	width: 27px;
+	height: 23px;
+}
+
+.lightbulb{
+	background-position: -108px -387px ;
+	width: 31px;
+	height: 40px;
+}
+
+.orangeicongraph{
+	background-position: -647px -250px ;
+	width: 248px;
+	height: 212px;
+}
+
+.rightarrow{
+	background-position: -162px -390px ;
+	width: 24px;
+	height: 51px;
+}
+
+.rightorangearrow{
+	background-position: -210px -402px ;
+	width: 27px;
+	height: 23px;
+}
+
+.searchbar{
+	background-position: -269px -390px ;
+	width: 268px;
+	height: 44px;
+}
+
+.settingsgray{
+	background-position: -440px -323px ;
+	width: 35px;
+	height: 27px;
+}
+
+.settingswhite{
+	background-position: -254px -355px ;
+	width: 20px;
+	height: 20px;
+}
+
+.smcheck{
+	background-position: -445px -366px ;
+	width: 16px;
+	height: 16px;
+}
+
+.twitter{
+	background-position: -498px -330px ;
+	width: 16px;
+	height: 16px;
+}
+
+.up-arrow{
+	background-position: -531px -331px ;
+	width: 18px;
+	height: 12px;
+}
+
+.youtube{
+	background-position: -493px -360px ;
+	width: 16px;
+	height: 16px;
+}
+
+.orangecheck{
+	background-position: -526px -360px ;
+	width: 26px;
+	height: 20px;
+}
+
